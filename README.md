@@ -11,6 +11,8 @@ If such platforms do not exist yet, why not build one ourselves?
 Here, the idea is quite simple:
 take an ARM-based micro-controller which provides external pins for External Bus Interface (EBI) and which provides a Static Memory Controller (SMC).
 
+![circuit](https://github.com/gberthou/armorik/raw/master/img/circuit.jpg)
+
 ## Hardware
 
 - MCU: [ATSAMS70Q19](https://www.microchip.com/wwwproducts/en/ATSAMS70Q19) (ARM Cortex-M7)
